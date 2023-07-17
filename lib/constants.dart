@@ -1,1 +1,1 @@
-const String kIconPath = 'assets/icons/';
+const String kIconPath = 'assets/icons';
